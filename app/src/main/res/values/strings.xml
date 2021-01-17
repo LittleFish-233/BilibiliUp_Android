@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BilibiliUp</string>
+    <string name="yingyong_banben">应用程序版本：1.1</string>
+    <string name="gengxin_riqi">最后更新日期：2020/1/17</string>
+    <string name="kaifazhe">开发者：沙雕の方块</string>
+    <string name="kaifazhe_dianziyoujian">电子邮件：LittleFishTenyears@outlook.com</string>
+    <string name="erchiyuan_qq">二次元编程会社：955456615</string>
+    <string name="kaiyuan_dihzhi">开源地址：</string>
+    <string name="layout_guanyu_button_text">检查更新</string>
+    <string name="layout_main_button_text">设置</string>
+    <string name="layout_main_button2_text">关于</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="dialog_fire_missiles">你好</string>
+    <string name="fire">取消</string>
+    <string name="cancel">取消</string>
+</resources>

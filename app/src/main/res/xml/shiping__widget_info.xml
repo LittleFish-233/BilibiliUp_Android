@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:configure="com.example.bilibiliup.shiping_WidgetConfigureActivity"
+    android:initialKeyguardLayout="@layout/shiping__widget"
+    android:initialLayout="@layout/shiping__widget"
+    android:minWidth="250dp"
+    android:minHeight="120dp"
+    android:previewImage="@drawable/example_appwidget_preview"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="10000"
+    android:widgetCategory="home_screen" />
